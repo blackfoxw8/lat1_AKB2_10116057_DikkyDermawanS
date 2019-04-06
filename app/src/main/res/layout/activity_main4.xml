@@ -9,7 +9,7 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="wrap_content"
+        android:layout_width="279dp"
         android:layout_height="39dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -17,6 +17,7 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/nunito_bold"
         android:text="Beres! Sekarang Dikky"
+        android:textColor="#000000"
         android:textSize="50px"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -34,6 +35,7 @@
         android:background="@drawable/rounded_button"
         android:fontFamily="@font/nunito_bold"
         android:text="Oke"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -43,7 +45,7 @@
 
     <TextView
         android:id="@+id/textView10"
-        android:layout_width="199dp"
+        android:layout_width="281dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -51,17 +53,18 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/nunito_bold"
         android:text="udah bisa ngecheck"
+        android:textColor="#000000"
         android:textSize="50px"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.096"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.172" />
+        app:layout_constraintVertical_bias="0.192" />
 
     <TextView
         android:id="@+id/textView11"
-        android:layout_width="198dp"
+        android:layout_width="281dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -69,17 +72,18 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/nunito_bold"
         android:text="penggunan HP mu"
+        android:textColor="#000000"
         android:textSize="50px"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.096"
+        app:layout_constraintHorizontal_bias="0.105"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.216" />
+        app:layout_constraintVertical_bias="0.246" />
 
     <TextView
         android:id="@+id/textView12"
-        android:layout_width="198dp"
+        android:layout_width="282dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -87,17 +91,18 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/nunito_bold"
         android:text="tiap hari bantu kamu"
+        android:textColor="#000000"
         android:textSize="50px"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.091"
+        app:layout_constraintHorizontal_bias="0.097"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.259" />
+        app:layout_constraintVertical_bias="0.305" />
 
     <TextView
         android:id="@+id/textView13"
-        android:layout_width="198dp"
+        android:layout_width="283dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -105,11 +110,12 @@
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/nunito_bold"
         android:text="ngatur waktu :)"
+        android:textColor="#000000"
         android:textSize="50px"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.096"
+        app:layout_constraintHorizontal_bias="0.107"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.303" />
+        app:layout_constraintVertical_bias="0.363" />
 </androidx.constraintlayout.widget.ConstraintLayout>
